@@ -1,0 +1,2 @@
+Checking if the file getting added via terminal
+
